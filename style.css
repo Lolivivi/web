@@ -36,6 +36,9 @@ li{
 	color: #fff;
 	border: none;
 	background-color: #f83838;
+	position: absolute;
+	left: 971px;
+	top: 70px;
 }
 #search{
 	width: 1560px;
